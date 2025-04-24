@@ -7,7 +7,7 @@ let saldo = 100000;
 
       while (lanjut) {
         let pilihan = prompt(
-          "Selamat datang di Bank Sederhana\n\nPilih menu:\n1. Cek Saldo\n2. Setor Tunai\n3. Tarik Tunai\n\nMasukkan angka pilihan:"
+          "Selamat datang di Bank zzaaaput\n\nPilih menu:\n1. Cek Saldo\n2. Setor Tunai\n3. Tarik Tunai\n\nMasukkan angka pilihan:"
         );
 
         if (pilihan === null) break;
