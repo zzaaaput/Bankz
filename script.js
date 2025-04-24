@@ -64,7 +64,7 @@ let saldo = 100000;
         lanjut = confirm("Apakah Anda ingin melakukan transaksi lain?");
       }
 
-      alert("Terima kasih telah menggunakan layanan Bank Sederhana! 👋");
+      alert("Terima kasih telah menggunakan layanan Bank zzaaaput! 👋");
     }
 
     function tambahRiwayat(jenis, jumlah, saldoSetelah) {
